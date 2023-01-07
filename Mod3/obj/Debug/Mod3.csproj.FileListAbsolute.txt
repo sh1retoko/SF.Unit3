@@ -1,0 +1,8 @@
+E:\project\Mod3\Mod3\bin\Debug\Mod3.exe.config
+E:\project\Mod3\Mod3\bin\Debug\Mod3.exe
+E:\project\Mod3\Mod3\bin\Debug\Mod3.pdb
+E:\project\Mod3\Mod3\obj\Debug\Mod3.csproj.AssemblyReference.cache
+E:\project\Mod3\Mod3\obj\Debug\Mod3.csproj.SuggestedBindingRedirects.cache
+E:\project\Mod3\Mod3\obj\Debug\Mod3.csproj.CoreCompileInputs.cache
+E:\project\Mod3\Mod3\obj\Debug\Mod3.exe
+E:\project\Mod3\Mod3\obj\Debug\Mod3.pdb
